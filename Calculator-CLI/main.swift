@@ -9,3 +9,9 @@
 
 import Foundation
 
+let iohelper = IOHelper()
+let math = Math()
+
+while true {
+    
+}
